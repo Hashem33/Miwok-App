@@ -3,5 +3,7 @@
 Miwok-app is simple, it translates english words to miwok words 
 Miwok words by Udacity
 
-![Screenshot_1571493164](https://user-images.githubusercontent.com/45319166/67146311-1c8e3080-f28a-11e9-9c41-0f47b70a33ad.png)
-![Screenshot_1571493172](https://user-images.githubusercontent.com/45319166/67146314-20ba4e00-f28a-11e9-8506-3616e033b458.png)
+
+![one](https://user-images.githubusercontent.com/45319166/67146388-fe750000-f28a-11e9-86ee-dd3ac0a5d57e.PNG)
+![two](https://user-images.githubusercontent.com/45319166/67146389-ff0d9680-f28a-11e9-9e1f-63a222b7885a.PNG)
+
